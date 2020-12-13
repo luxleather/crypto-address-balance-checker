@@ -3,7 +3,7 @@
 
 To use this script you need first to create 'addr.txt' file with list of addresses.
 
-Depending of which crypto coin you check, change explorer link in 'EXPLORER' veriable (Recently Teloscoin).
+Depending of which crypto coin you check, change explorer link in 'EXPLORER' variable (Recently Teloscoin).
 
 Run script by:
 ```
